@@ -27,7 +27,7 @@ os.system("")
 
 # LANG COVERED UNTIL LINE 1594
 
-
+#test_contrib
 
 bot = commands.Bot(command_prefix = "bruh ", intents = discord.Intents.all())
 
