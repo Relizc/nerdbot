@@ -1,5 +1,6 @@
 ## Item format
 For any format docs help, please view [NerdBot Format Types](docs/formats.md)
+
 [Source: Item ID to Name Specifying](data/item_1._source.db)
 ## All Global Format:
 ### **Portion #1** *(Item ID to Name Specifing)*:
